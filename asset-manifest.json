@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anastasiay-sur.github.io/TodoList/static/css/main.1511f5a1.css",
-    "main.js": "/anastasiay-sur.github.io/TodoList/static/js/main.4552e864.js",
-    "index.html": "/anastasiay-sur.github.io/TodoList/index.html",
-    "main.1511f5a1.css.map": "/anastasiay-sur.github.io/TodoList/static/css/main.1511f5a1.css.map",
-    "main.4552e864.js.map": "/anastasiay-sur.github.io/TodoList/static/js/main.4552e864.js.map"
+    "main.css": "/TodoList/static/css/main.1511f5a1.css",
+    "main.js": "/TodoList/static/js/main.4552e864.js",
+    "index.html": "/TodoList/index.html",
+    "main.1511f5a1.css.map": "/TodoList/static/css/main.1511f5a1.css.map",
+    "main.4552e864.js.map": "/TodoList/static/js/main.4552e864.js.map"
   },
   "entrypoints": [
     "static/css/main.1511f5a1.css",
