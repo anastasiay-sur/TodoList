@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/anastasiay-sur.github.io/TodoList",
+  "homepage": "https://anastasiay-sur.github.io/TodoList",
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
     "@testing-library/dom": "^10.4.1",
